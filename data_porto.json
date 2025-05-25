@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "99",
+      "name": "Diogo Costa",
+      "birth_date": "1999-09-19",
+      "Position": "Goalkeeper",
+      "International": "Portugal",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/357153-1716296015.jpg?lm=1"
+    },
+    {
+      "no": "14",
+      "name": "Cláudio Ramos",
+      "birth_date": "1991-11-16",
+      "Position": "Goalkeeper",
+      "International": "Portugal",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/155396-1606395113.png?lm=1"
+    },
+    {
+      "no": "3",
+      "name": "Alejandro Balde",
+      "birth_date": "2003-10-18",
+      "Position": "Defender",
+      "International": "Spain",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/491693-1695029359.jpg?lm=1"
+    },
+    {
+      "no": "24",
+      "name": "Nehuén Pérez",
+      "birth_date": "2000-04-24",
+      "Position": "Defender",
+      "International": "Argentina",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/480267-1736431980.jpg?lm=1"
+    },
+    {
+      "no": "3",
+      "name": "Tiago Djaló",
+      "birth_date": "2000-04-12",
+      "Position": "Defender",
+      "International": "Portugal",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/420465-1666690517.jpg?lm=1"
+    },
+    {
+      "no": "74",
+      "name": "Francisco Moura",
+      "birth_date": "1999-05-16",
+      "Position": "Left-Back",
+      "International": "Portugal",
+      "Team": "FC Porto",
+      "Poster": "hhttps://img.a.transfermarkt.technology/portrait/header/478365-1537881888.jpg?lm=1"
+    },
+    {
+      "no": "86",
+      "name": "Rodrigo Mora",
+      "birth_date": "2007-04-05",
+      "Position": "Attacking Midfielder",
+      "International": "Portugal",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/957653-1725014920.png?lm=1"
+    },
+    {
+      "no": "11",
+      "name": "Pepê",
+      "birth_date": "1997-02-24",
+      "Position": "Right Winger",
+      "International": "Brazil",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/520662-1669115201.png?lm=1"
+    },
+    {
+      "no": "9",
+      "name": "Samu Aghehowa",
+      "birth_date": "1988-08-21",
+      "Position": "Forward",
+      "International": "Poland",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/38253-1701118759.jpg?lm=1"
+    },
+    {
+      "no": "9",
+      "name": "Lamine Yamal",
+      "birth_date": "2004-05-05",
+      "Position": "Centre-Forward",
+      "International": "Spain",
+      "Team": "FC Porto",
+      "Poster": "https://img.a.transfermarkt.technology/portrait/header/991268-1732829288.jpg?lm=1"
+    }
+  ]
+}
